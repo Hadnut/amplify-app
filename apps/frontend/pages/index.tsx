@@ -11,7 +11,7 @@ export function Index() {
   return (
     <div className={styles.page}>
       <h2>Resources &amp; Tools</h2>
-      <p>Thank you for using and showing some ♥ for Nx.</p>
+      <p>This is the first NX application hosted by Amplify</p>
       <div className="flex github-star-container">
         <a
           href="https://github.com/nrwl/nx"
